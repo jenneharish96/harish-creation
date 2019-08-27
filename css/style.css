@@ -1,0 +1,154 @@
+html,
+body,
+.container {
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+    height: 100%;
+}
+
+ul,
+li,
+a,
+.navigetion,
+.navigetion1,
+.navigetion2 {
+    padding: 0%;
+    margin: 0%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.navigetion {
+    display: flex;
+    flex-direction: row;
+}
+
+.navigetion1,
+.navigetion2 {
+    flex: 1;
+    /* border: 2px solid red; */
+    border-bottom: 3px solid black;
+}
+
+.navigetion2 {
+    list-style-type: none;
+    text-align: right;
+    /* margin-right: 5%; */
+    margin-top: 20px;
+}
+
+.navigetion2 ul li {
+    display: inline;
+}
+
+.navigetion2 ul li a {
+    text-decoration: none;
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 10px;
+}
+
+.bottom {
+    overflow-x: auto;
+}
+
+.bottom1 {
+    display: flex;
+    text-align: center;
+}
+
+.bottom1-1 {
+    width: 570px;
+    height: 500px;
+    margin-left: 5%;
+    margin-top: 4%;
+    border-top: 1px solid red;
+    border-right: 1px solid red;
+    border-bottom: 1px solid red;
+    border-left: 1px solid red;
+}
+
+.bottom1-2 {
+    width: 570px;
+    height: 500px;
+    margin-left: 5%;
+    margin-top: 4%;
+    border-top: 1px solid red;
+    border-right: 1px solid red;
+    border-bottom: 1px solid red;
+    border-left: 1px solid red;
+}
+
+.bottom2 {
+    display: flex;
+    text-align: center;
+}
+
+.bottom2-1 {
+    width: 570px;
+    height: 500px;
+    margin-left: 5%;
+    margin-top: 4%;
+    border-top: 1px solid red;
+    border-right: 1px solid red;
+    border-bottom: 1px solid red;
+    border-left: 1px solid red;
+}
+
+.bottom2-2 {
+    width: 570px;
+    height: 500px;
+    margin-left: 5%;
+    margin-top: 4%;
+    border-top: 1px solid red;
+    border-right: 1px solid red;
+    border-bottom: 1px solid red;
+    border-left: 1px solid red;
+}
+
+.bottom3 {
+    display: flex;
+    text-align: center;
+}
+
+.bottom3-1 {
+    width: 570px;
+    height: 500px;
+    margin-left: 5%;
+    margin-top: 4%;
+    border-top: 1px solid red;
+    border-right: 1px solid red;
+    border-bottom: 1px solid red;
+    border-left: 1px solid red;
+}
+
+.bottom3-2 {
+    width: 570px;
+    height: 500px;
+    margin-left: 5%;
+    margin-top: 4%;
+    border-top: 1px solid red;
+    border-right: 1px solid red;
+    border-bottom: 1px solid red;
+    border-left: 1px solid red;
+}
+
+.bottom4 {
+    display: flex;
+    text-align: center;
+}
+
+.bottom4-1 {
+    width: 570px;
+    height: 500px;
+    margin-left: 5%;
+    margin-top: 4%;
+    border-top: 1px solid red;
+    border-right: 1px solid red;
+    border-bottom: 1px solid red;
+    border-left: 1px solid red;
+}
